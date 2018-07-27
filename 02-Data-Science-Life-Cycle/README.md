@@ -1,5 +1,5 @@
 
-In particular we will discuss key aspects of the data science lifecycle:
+Data science lifecycle:
 
 ## Stage 1
 
