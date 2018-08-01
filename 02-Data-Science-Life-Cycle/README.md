@@ -1,5 +1,5 @@
 
-### Data science lifecycle
+## Data Science lifecycle
 
 ## Stage 1
 
