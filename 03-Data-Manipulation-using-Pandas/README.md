@@ -4,7 +4,7 @@
 * Sorting, 
 * filtering, 
 * grouping, 
-* pivot tables and much more.
+* pivot tables and much more..
 
 2. Data visualization in pandas and seaborn
 * Bar charts, 
