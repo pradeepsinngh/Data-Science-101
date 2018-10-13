@@ -25,3 +25,4 @@ If we are investigating a period of time that the data do not have entries for, 
 
 ### What limitations will this data have on our conclusions? 
 Although we will ask this question at each step of our data processing, we can already see that our data impose important limitations. The most important limitation is that we cannot make unbiased estimations for time periods not covered by our datasets.
+
