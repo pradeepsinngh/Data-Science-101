@@ -18,3 +18,4 @@ For quantitative data, we most often use histograms, box plots, and scatter plot
 
 ### Visualizing Qualitative Data
 For qualitative or categorical data, we most often use bar charts and dot charts.
+
