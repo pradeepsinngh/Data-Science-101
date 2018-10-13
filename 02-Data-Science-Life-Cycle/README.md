@@ -1,5 +1,8 @@
 
-## Data Science Lifecycle:-
+## Data Science Lifecycle
+
+You can divide any data science project in following steps, where you ask many question to yourself, to data etc. And it is quite common for more questions and problems to emerge after the last step of this process, and we can thus repeatedly engage in this procedure to discover new characteristics of our world. This positive feedback loop is so central to our work that we call it the data science lifecycle.
+
 
 ## Stage 1
 
@@ -15,6 +18,8 @@
    * How will we collect more data?
    * Is our data representative?
    * How do we organize the data for analysis?
+   * How do we transform or process our data?
+   * Structured or Unstructured data?
 
 ## Stage 3
 
@@ -22,7 +27,13 @@
    * How is our data organized and what does it contain?
    * What are the biases, anomalies, or other issues with the data?
    * How do we transform the data to enable effective analysis?
+   * What relationship features have? Are the related/ correlated to each other?
    
+## Stage 4
+1. Building Models:
+   * 
+   * 
+
 ## Stage 4
 
 1. Prediction and Inference:
