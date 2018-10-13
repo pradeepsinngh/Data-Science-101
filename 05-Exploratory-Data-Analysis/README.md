@@ -9,3 +9,9 @@ We seek to understand the following properties about our data:
 - **Temporality:** How the data are situation in time.
 - **Faithfulness:** How well the data captures "reality".
 
+Follow these checklist while you do EDA:
+1. [Structure Checklist](https://github.com/pradeepsinngh/Data-Science-with-Python/blob/master/05-Exploratory-Data-Analysis/structure.md)
+2. [Granularity Checklist](https://github.com/pradeepsinngh/Data-Science-with-Python/blob/master/05-Exploratory-Data-Analysis/granularity.md)
+3. [Scope Checklist](https://github.com/pradeepsinngh/Data-Science-with-Python/blob/master/05-Exploratory-Data-Analysis/Scope.md)
+4. [Temporality Checklist](https://github.com/pradeepsinngh/Data-Science-with-Python/blob/master/05-Exploratory-Data-Analysis/Temporality.md)
+5. [Faithfulness Checklist](https://github.com/pradeepsinngh/Data-Science-with-Python/blob/master/05-Exploratory-Data-Analysis/Faithfulness.md)
