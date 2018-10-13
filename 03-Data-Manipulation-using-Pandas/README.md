@@ -20,9 +20,6 @@
 | `series.apply(func)` | Applying a function elementwise |
 | `series.str.func()` | String manipulation |
 | `df.plot.func()` | Plotting |
-| `pd.read_csv()` | Read a CSV file |
-
-
 
 
 2. Data visualization in pandas and seaborn
