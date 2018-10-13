@@ -31,8 +31,8 @@ You can divide any data science project in following steps, where you ask many q
    
 ## Stage 4
 1. Building Models:
-   * 
-   * 
+   * What kind of models can you build?
+   * Regression/ Classification/ Clustering?
 
 ## Stage 4
 
