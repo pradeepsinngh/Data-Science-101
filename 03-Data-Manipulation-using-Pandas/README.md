@@ -17,9 +17,9 @@
 | `df.groupby([label1, label2])` | Group by multiple columns |
 | `df.groupby(label).agg(func)` | Group and aggregate |
 | `pd.pivot_table()` | Pivot |
-| `pd.read_csv()` | Read a CSV file |
-| `pd.read_csv()` | Read a CSV file |
-| `pd.read_csv()` | Read a CSV file |
+| `series.apply(func)` | Applying a function elementwise |
+| `series.str.func()` | String manipulation |
+| `df.plot.func()` | Plotting |
 | `pd.read_csv()` | Read a CSV file |
 
 
