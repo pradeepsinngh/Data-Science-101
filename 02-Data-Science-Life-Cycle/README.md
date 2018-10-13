@@ -1,5 +1,5 @@
 
-## Data Science Lifecycle
+# Data Science Lifecycle
 
 You can divide any data science project in following steps, where you ask many question to yourself, to data etc. And it is quite common for more questions and problems to emerge after the last step of this process, and we can thus repeatedly engage in this procedure to discover new characteristics of our world. This positive feedback loop is so central to our work that we call it the data science lifecycle.
 
