@@ -8,3 +8,4 @@ We seek to understand the following properties about our data:
 - **Scope:** How (in)complete our data are.
 - **Temporality:** How the data are situation in time.
 - **Faithfulness:** How well the data captures "reality".
+
