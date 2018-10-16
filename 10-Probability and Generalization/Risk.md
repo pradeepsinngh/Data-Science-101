@@ -15,3 +15,5 @@ Thus, the risk is minimized when our model has no bias.
 **Notice** that when our model has no bias, the risk is usually a positive quantity. This implies that even an optimal model will have prediction error. 
 
 Intuitively, this occurs because a constant model will only predict a single number while X may take on any value from the population. The variance term captures the magnitude of the error. A low variance means that X will likely take a value close to θ, whereas a high variance means that X is more likely to take on a value far from θ.
+
+
