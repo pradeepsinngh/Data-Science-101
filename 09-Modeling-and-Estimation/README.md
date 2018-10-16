@@ -46,3 +46,19 @@ It's same as mean squared error, just with one difference: instead taking the sq
 This makes sense when we consider that the absolute value function is linear, so taking the average of many absolute value functions should produce a semi-linear function.
 
 2. Since the MSE has a squared error term, it will be more sensitive to outliers. If θ=10 and a point lies at 110, that point's error term for MSE will be ```(10−110)2=10000``` whereas in the MAE, that point's error term will be |10−110|=100.
+
+3. MSE is easier to differentiate but is more sensitive to outliers than the MAE.
+4. For the MSE, ^θ=mean(y), while for the MAE ^θ=median(y). *Notice that the median is less affected by outliers than the mean. This phenomenon arises from our construction of the two loss functions.*
+5. We have also seen that the MSE has a unique ^θ, whereas the mean absolute value can multiple possible ^θ values when there are an even number of data points.
+
+## The Huber Loss:
+- Huber loss combines both the MSE and MAE to create a loss function that is differentiable and robust to outliers.
+
+- The Huber loss accomplishes this by behaving like the MSE function for θ values close to the minimum and switching to the absolute loss for θ values far from the minimum.
+
+- Huber loss is smooth, unlike the MAE. 
+- The Huber loss also increases at a linear rate, unlike the quadratic rate of the mean squared loss.
+- Attempting to take the derivative of the Huber loss function is tedious and does not result in an elegant result like the MSE and MAE. Instead, we can use a computational method called gradient descent to find minimizing value of θ.
+
+### The Huber loss does have a drawback. 
+Notice that it transitions from the MSE to the MAE once θ gets far enough from the point. We can tweak this "far enough" to get different loss curves. For example, we can make it transition once θ is just one unit away from the observation:
