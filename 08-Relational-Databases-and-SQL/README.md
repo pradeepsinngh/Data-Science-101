@@ -6,11 +6,11 @@ For example, airlines might record flight bookings in a different format than a 
 
 A relation's schema contains its column names, data types, and constraints. A relational database can be simply described as a set of tables containing rows of individual data entries.
 
-### Relational Database Management Systems:
+### Relational Database Management Systems(RDBMs):
 
-A relational database management system (RDBMSs) provides an interface to a relational database. Oracle, MySQL, and PostgreSQL are three of the most commonly used RDBMSs used in practice today.
+A RDBMSs provides an interface to a relational database. Oracle, MySQL, and PostgreSQL are three of the most commonly used RDBMSs used in practice today. RDBMs give users the ability to add, edit, and remove data from databases. 
 
-RDBMs give users the ability to add, edit, and remove data from databases. These systems provide several key benefits over using a collection of text files to store data, including:
+These systems provide several key benefits over using a collection of text files to store data, including:
 - **Reliable data storage:** RDBMSs protect against data corruption from system failures or crashes.
 - **Performance:** RDBMSs often store data more efficiently than text files and have well-developed algorithms for querying data.
 - **Data management:** RDBMSs implement access control, preventing unauthorized users from accessing sensitive datasets.
