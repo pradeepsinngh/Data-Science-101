@@ -4,4 +4,16 @@ A database is an organized collection of data. In the past, data was stored in s
 
 For example, airlines might record flight bookings in a different format than a bank managing an account ledger. In 1969, Ted Codd introduced the relational model as a general method of storing data. Data is stored in two-dimensional tables called relations, consisting of individual observations in each row (commonly referred to as tuples). Each tuple is a structured data item that represents the relationship between certain attributes (columns). Each attribute of a relation has a name and data type.
 
-A relation's schema contains its column names, data types, and constraints. Two or more tables form a relational database, which is a collection of one or more relations. 
+A relation's schema contains its column names, data types, and constraints. A relational database can be simply described as a set of tables containing rows of individual data entries.
+
+### Relational Database Management Systems:
+
+A relational database management system (RDBMSs) provides an interface to a relational database. Oracle, MySQL, and PostgreSQL are three of the most commonly used RDBMSs used in practice today.
+
+RDBMs give users the ability to add, edit, and remove data from databases. These systems provide several key benefits over using a collection of text files to store data, including:
+- **Reliable data storage:** RDBMSs protect against data corruption from system failures or crashes.
+- **Performance:** RDBMSs often store data more efficiently than text files and have well-developed algorithms for querying data.
+- **Data management:** RDBMSs implement access control, preventing unauthorized users from accessing sensitive datasets.
+- **Data consistency:** RDBMSs can impose constraints on the data entered—for example, that a column GPA only contains floats between 0.0 and 4.0.
+
+To work with data stored in a RDBMS, we use the SQL programming language.
