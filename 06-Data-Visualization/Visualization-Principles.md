@@ -22,7 +22,6 @@ There are general principles that make visualizations much more effective at sho
 ### Principles of Context:
 - Always add as much relevant context as possible to any plot you plan to share more broadly.
 - To provide context, we add a title, caption, axes labels, units for the axes, and labels for the plotted lines.
-
 - In general, we provide context for a plot through:
   - Plot title
   - Axes labels
