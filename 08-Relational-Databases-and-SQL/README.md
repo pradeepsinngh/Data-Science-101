@@ -17,3 +17,13 @@ These systems provide several key benefits over using a collection of text files
 - **Data consistency:** RDBMSs can impose constraints on the data entered—for example, that a column GPA only contains floats between 0.0 and 4.0.
 
 To work with data stored in a RDBMS, we use the SQL programming language.
+
+
+## RDBMS vs. pandas
+### How do RDBMSs and the pandas Python package differ? 
+
+First, pandas is not concerned about data storage. Pandas does not dictate how the data are actually stored on the underlying computer like a RDBMS does. 
+
+Second, pandas primarily provides methods for manipulating data while RDBMSs handle both data storage and data manipulation, making them more suitable for larger datasets. A typical rule of thumb is to use a RDBMS for datasets larger than several gigabytes. 
+
+Finally, pandas requires knowledge of Python in order to use, whereas RDBMSs require knowledge of SQL. Since SQL is simpler to learn than Python, RDBMSs allow less technical users to store and query data, a handy trait.
