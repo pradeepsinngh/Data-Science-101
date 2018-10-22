@@ -20,4 +20,4 @@ For quantitative data, we most often use histograms, box plots, and scatter plot
 For qualitative or categorical data, we most often use bar charts and dot charts.
 
 ## Visualization Principles:
-- Check this link for general principles that make visualization more effective -- [](https://github.com/pradeepsinngh/Data-Science-with-Python/blob/master/06-Data-Visualization/Visualization-Principles.md)
+- Check this link for general principles that make visualization more effective -- [Visualization Principles](https://github.com/pradeepsinngh/Data-Science-with-Python/blob/master/06-Data-Visualization/Visualization-Principles.md)
