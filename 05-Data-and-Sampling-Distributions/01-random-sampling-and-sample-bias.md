@@ -27,7 +27,9 @@ The reviews of restaurants, hotels, cafes, and so on that you read on social med
 ### Bias
 - refers to measurement or sampling errors that are produced by the measurement or sampling process. 
 - An important distinction should be made between errors due to random chance, and errors due to bias. 
-- Consider the physical process of a gun shooting at a target. It will not hit the absolute center of the target every time, or even much at all. An unbiased process will produce error, but it is random and does not tend strongly in any direction. The results will show a biased process—there is still random error in both the x and y direction, but there is also a bias. Shots tend to fall in the upper-right quadrant.
+- Consider the physical process of a gun shooting at a target. 
+  - It will not hit the absolute center of the target every time, or even much at all. An unbiased process will produce error, but it is random and does not tend strongly in any direction. 
+  - But a biased process will also show random error in both the x and y direction, but there is also a bias. Shots will tend to fall in some region /quadrant more then other.
 
 ## Random Selection
 ### How to solve the problem of sample bias? 
