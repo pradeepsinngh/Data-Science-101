@@ -8,7 +8,7 @@ The term "**data cleaning**" refers to the process of combing through the data a
 For example, no amount of data cleaning will fix a biased sampling process. Before embarking on the sometimes lengthy process of data cleaning, we must be confident that our data are collected accurately and with as little bias as possible. Only then can we investigate the data itself and use data cleaning to resolve issues in the data format or entry process.
 
 
-## Understanding the Data Generation¶
+## Understanding the Data Generation
 
 You should ask some questions to the data beforestarting with data cleaning or processing. 
 
