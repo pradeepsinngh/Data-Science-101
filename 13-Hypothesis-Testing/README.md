@@ -1,4 +1,4 @@
-## Statistical Experiments and Significance Testing
+## Statistical Significance Testing
 
 ### Why to design experiments? 
 In order to confirm or reject a hypothesis.
