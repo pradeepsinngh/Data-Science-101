@@ -2,7 +2,7 @@
 
 My notes on Data Science and Statistical Inference using Python. I'll keep adding more python code and notes once in a while. Feel free to suggest anything that you would like to see here.
 
-You can reach out to me at pradeepsingh7890@live.com. Check my webpage -- http://www.pradeepsingh.xyz/.
+You can reach out to me at pradeepsingh7890@live.com. Check my webpage -- http://pradeepsinngh.github.io.
 
 ### Reference:
 1. [Data 8: The Foundations of Data Science](http://data8.org/) | UC Berkeley
