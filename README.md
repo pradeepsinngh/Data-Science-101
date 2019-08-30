@@ -1,6 +1,6 @@
-# Data Science Tutorials
+# Data Science Tutorials + Notes
 
-I've been working on data science projects quite a bit lately, and figured I'd make a short tutorials on the most important and helpful library in Python for data science. So, here I'm. :)
+I've been working on data science projects quite a bit lately, and figured I'd share my notes and make some short tutorials on the most important and helpful library in Python for data science. So, here I'm. :)
 
 1. [Pandas Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Pandas%20Tutorial)
 2. [Seaborn Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Seaborn%20Tutorial)
