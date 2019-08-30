@@ -7,15 +7,6 @@ I've been working on data science projects quite a bit lately, and figured I'd s
 3. [NumPy Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Numpy%20Tutorial)
 4. [Python Tutorial](https://github.com/pradeepsinngh/Data-Science-Tutorials/tree/master/Python%20Tutorial)
 
-More tutorials to come:-
-- Scipy
-- Matplotlib
-- StatsModels (for statistical data analysis)
-- Plotly
-- Scikit-learn
-- Scrapy (for scraping data)
-- BeautifulSoup
-
 Hopefully it's helpful for you!
 
 
